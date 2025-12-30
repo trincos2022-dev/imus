@@ -2,7 +2,7 @@
 
 client_id = "04a971312ee76e996c99e57183d60c90"
 name = "ingram-micro-integration"
-application_url = "https://ingram-mirco-zeta.vercel.app"
+application_url = "https://imus.vercel.app"
 embedded = true
 
 [build]
